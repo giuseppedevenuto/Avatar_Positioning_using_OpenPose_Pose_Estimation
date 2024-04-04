@@ -1,0 +1,1 @@
+Before running OpenPose, make sure to copy the models file into the models folder. You can download the models file from the link: https://drive.google.com/drive/folders/1qj4m3oBQfMRRqJG3lMBDBhmoqXjaYYHY?usp=sharing
